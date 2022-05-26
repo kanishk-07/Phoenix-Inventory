@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kanishk.phoenixinventory.CurrentSubDivision">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+    <ImageButton
+        android:id="@+id/go_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="15dp"
+        android:background="@color/colorPrimary"
+        app:srcCompat="@android:drawable/ic_menu_revert"/>
+
+    <TextView
+        android:id="@+id/sub_division_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="14dp"
+        android:background="@color/colorPrimary"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="21sp"
+        />
+
+    <include layout="@layout/content_current_sub_division"/>
+
+</android.support.design.widget.CoordinatorLayout>

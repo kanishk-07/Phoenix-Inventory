@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Phoenix Inventory</string>
+    <string name="chat_box_heading">Chat Box</string>
+    <string name="title_activity_current_sub_division">CurrentSubDivision</string>
+    <string name="action_settings">Report a Bug</string>
+    <string name="Hello">Hello,</string>
+    <string name="askname">Type your name</string>
+
+    <string name="select_subdivision">Select the Sub-Division</string>
+    <string name="hint">Type your Message</string>
+    <string name="prompt_msg">Type a message</string>
+    <string name="sample_message">Hello!</string>
+    <string name="action_send">Send</string>
+
+    <string name="hintAbout">Share some information related to the Club</string>
+
+    <string name="nikhil_sir">\tNikhil Paliwal\n7737260009 (Co-ordinator)</string>
+
+    <string name="subRobo">Parth Dadich  9413368618\nMeenakshi Modi  7790944061\n\t(Sub Co-ordinators)</string>
+    <string name="subEmbe">Prajjval Bharadwaj\n9636731362 (Sub Co-ordinator)</string>
+    <string name="subDip">Nakul Agarwal\n9636731362 (Sub Co-ordinator)</string>
+    <string name="subQuarks">Vishal Jain  7877376851\nAnjali Gupta  9460797535\n\t(Sub Co-ordinators)</string>
+
+    <string name="itemHint">Type Something about this artifact</string>
+
+    <string name="robo">Robotics</string>
+    <string name="emb">Electronics and Embedded</string>
+    <string name="dip">Digital Image Processing</string>
+    <string name="quarks">Quarks</string>
+
+    <string name="isFirst">false</string>
+
+    <string-array name="depts">
+        <item>Robotics</item>
+        <item>Embedded and Electronics</item>
+        <item>Digital Image Processing</item>
+        <item>Quarks</item>
+    </string-array>
+
+    <string-array name="robotics_members">
+        <item>•  Aashish Raj Gupta\t\t\t\t\t\t\t\t\t7300044970</item>
+        <item>•  Hardik Tyagi\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8769986265</item>
+        <item>•  Harshil Bhandari\t\t\t\t\t\t\t\t\t\t7597526581</item>
+        <item>•  Harshit Khandelwal\t\t\t\t\t\t\t8387835209</item>
+        <item>•  Karan Singh Chouhan\t\t\t\t\t8561875907</item>
+        <item>•  Khyati Doshi\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9636445125</item>
+        <item>•  Prakhar Kesarwani\t\t\t\t\t\t\t\t9680688195</item>
+        <item>•  Puru Upadhyay\t\t\t\t\t\t\t\t\t\t\t\t9166015620</item>
+        <item>•  Sarthak Jain\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9001383821</item>
+        <item>•  Shubhi Agarwal\t\t\t\t\t\t\t\t\t\t\t\t7742962020</item>
+        <item>•  Utkarsh Singhvi\t\t\t\t\t\t\t\t\t\t\t\t7297970977</item>
+        <item>•  Vishal Lalwani\t\t\t\t\t\t\t\t\t\t\t\t\t7043303938 </item>
+    </string-array>
+
+    <string-array name="embedded_members">
+        <item>•  Gautam Modi\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9928503278</item>
+        <item>•  Kanishk Sharma\t\t\t\t\t\t\t\t\t\t\t\t7599063441</item>
+        <item>•  Manvendra Singh\t\t\t\t\t\t\t\t\t\t\t9782301727</item>
+        <item>•  Neha Jhamtani\t\t\t\t\t\t\t\t\t\t\t\t\t8769081710</item>
+        <item>•  Pankhuri Vanjani\t\t\t\t\t\t\t\t\t\t\t9462346930</item>
+        <item>•  Rishabh Jain\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9756240933</item>
+        <item>•  Shrawan Singh\t\t\t\t\t\t\t\t\t\t\t\t\t9680544848</item>
+        <item>•  Utkarsh Singh\t\t\t\t\t\t\t\t\t\t\t\t\t\t9793587745</item>
+        <item>•  Yogesh Modi\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9784877567</item>
+    </string-array>
+
+    <string-array name="dip_members">
+        <item>•  Akshat Sharma\t\t\t\t\t\t\t\t\t\t\t\t8385960790</item>
+        <item>•  Akshay Shrimali\t\t\t\t\t\t\t\t\t\t\t9461395585</item>
+        <item>•  Animesh Gupta\t\t\t\t\t\t\t\t\t\t\t\t7891278068</item>
+        <item>•  Ashish Agarwal\t\t\t\t\t\t\t\t\t\t\t\t9460521948</item>
+        <item>•  Chirag Goyal\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9636782504</item>
+        <item>•  Parth Agarwal\t\t\t\t\t\t\t\t\t\t\t\t\t9969767439</item>
+        <item>•  Rahul Asnani\t\t\t\t\t\t\t\t\t\t\t\t\t\t8955552119</item>
+        <item>•  Swarnim\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9431027030</item>
+    </string-array>
+
+    <string-array name="quarks_members">
+        <item>•  Ayush Gupta\t\t\t\t\t\t\t\t\t\t\t\t\t\t7665957750</item>
+        <item>•  Divya Baid\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9660172742</item>
+        <item>•  Divyansh Shara\t\t\t\t\t\t\t\t\t\t\t7727050728</item>
+        <item>•  Harsh Upadhyay\t\t\t\t\t\t\t\t\t\t9929543341</item>
+        <item>•  Kritika Jain\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9131919809</item>
+        <item>•  Tanmay Agarwal\t\t\t\t\t\t\t\t\t8107197970</item>
+        <item>•  Unnat Chauhan\t\t\t\t\t\t\t\t\t\t\t9460521928</item>
+        <item>•  Vikas Goyal\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9413820365</item>
+    </string-array>
+
+    <string-array name="Item_list">
+        <item>•\t\t\t9V Batteries</item>
+        <item>•\t\t\t12V Batteries</item>
+        <item>•\t\t\t12V Car Stereo Battery</item>
+        <item>•\t\t\tBatteries</item>
+        <item>•\t\t\tBus Wires</item>
+        <item>•\t\t\tChasis</item>
+        <item>•\t\t\tCutter</item>
+        <item>•\t\t\tCycle Brakes</item>
+        <item>•\t\t\tDC Motors</item>
+        <item>•\t\t\tDPDT Switches</item>
+        <item>•\t\t\tExtension Board</item>
+        <item>•\t\t\tFecl3 Solution</item>
+        <item>•\t\t\tIR Led</item>
+        <item>•\t\t\tIron Plate</item>
+        <item>•\t\t\tIron Rods(Drone Obstruction)</item>
+        <item>•\t\t\tMD-119 Board</item>
+        <item>•\t\t\tNuts and Bolts Box</item>
+        <item>•\t\t\tQuadCop Frame with 3 Motors</item>
+        <item>•\t\t\tQuad Remote</item>
+        <item>•\t\t\tScrew Driver Set</item>
+        <item>•\t\t\tSmall Wooden Planks</item>
+        <item>•\t\t\tSocket Accessory Box</item>
+        <item>•\t\t\tSoldering Rod</item>
+        <item>•\t\t\tThermocol</item>
+        <item>•\t\t\tTorque Switch Boards</item>
+        <item>•\t\t\tTransporter Material</item>
+        <item>•\t\t\tUltra Motor Charger(3A/48V)</item>
+        <item>•\t\t\tWheels</item>
+    </string-array>
+
+    <string-array name="Item_list_with_no_bullet">
+        <item>9V Batteries</item>
+        <item>12V Batteries</item>
+        <item>12V Car Stereo Battery</item>
+        <item>Batteries</item>
+        <item>Bus Wires</item>
+        <item>Chasis</item>
+        <item>Cutter</item>
+        <item>Cycle Brakes</item>
+        <item>DC Motors</item>
+        <item>DPDT Switches</item>
+        <item>Extension Board</item>
+        <item>Fecl3 Solution</item>
+        <item>IR Led</item>
+        <item>Iron Plate</item>
+        <item>Iron Rods(Drone Obstruction)</item>
+        <item>MD-119 Board</item>
+        <item>Nuts and Bolts Box</item>
+        <item>QuadCop Frame with 3 Motors</item>
+        <item>Quad Remote</item>
+        <item>Screw Driver Set</item>
+        <item>Small Wooden Planks</item>
+        <item>tSocket Accessory Box</item>
+        <item>Soldering Rod</item>
+        <item>Thermocol</item>
+        <item>Torque Switch Boards</item>
+        <item>Transporter Material</item>
+        <item>Ultra Motor Charger(3A/48V)</item>
+        <item>Wheels</item>
+    </string-array>
+
+    <string-array name="all_members">
+        <item>Nikhil Paliwal</item>
+        <item>Parth Dadich</item>
+        <item>Meenakshi Modi</item>
+        <item>Prajjval Bharadwaj</item>
+        <item>Nakul Agarwal</item>
+        <item>Vishal Jain</item>
+        <item>Anjali Gupta</item>
+        <item>Aashish Raj Gupta</item>
+        <item>Hardik Tyagi</item>
+        <item>Harshil Bhandari</item>
+        <item>Harshit Khandelwal</item>
+        <item>Karan Singh Chouhan</item>
+        <item>Khyati Doshi</item>
+        <item>Prakhar Kesarwani</item>
+        <item>Puru Upadhyay</item>
+        <item>Sarthak Jain</item>
+        <item>Shubhi Agarwal</item>
+        <item>Utkarsh Singhvi</item>
+        <item>Vishal Lalwani</item>
+        <item>Gautam Modi</item>
+        <item>Kanishk Sharma</item>
+        <item>Manvendra Singh</item>
+        <item>Neha Jhamtani</item>
+        <item>Pankhuri Vanjani</item>
+        <item>Rishabh Jain</item>
+        <item>Shrawan Singh</item>
+        <item>Utkarsh Singh</item>
+        <item>Yogesh Modi</item>
+        <item>Akshat Sharma</item>
+        <item>Akshay Shrimali</item>
+        <item>Animesh Gupta</item>
+        <item>Ashish Gupta</item>
+        <item>Chirag Goyal</item>
+        <item>Parth Agarwal</item>
+        <item>Rahul Asnani</item>
+        <item>Swarnim</item>
+        <item>Ayush Gupta</item>
+        <item>Divya Baid</item>
+        <item>Divyansh Shara</item>
+        <item>Harsh Upadhyay</item>
+        <item>Kritika Jain</item>
+        <item>Tanmay Agarwal</item>
+        <item>Unnat Chauhan</item>
+        <item>Vikas Goyal</item>
+    </string-array>
+    <string name="title_activity_item_editing">ItemEditingActivity</string>
+    <string name="title_activity_chat_box">ChatBoxActivity</string>
+
+</resources>
